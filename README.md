@@ -1,7 +1,7 @@
 # 3D Multimodal Brain Tumor Segmentation (in progress)
 
-Groundwork for my thesis research on brain tumor segmentation, supervised by Dr. Fiza Zafar at
-Bahauddin Zakariya University, Multan. The pipeline is built on a public benchmark first; the next
+Ongoing research on brain tumor segmentation, supervised by Dr. Fiza Zafar at Bahauddin Zakariya
+University, Multan. The pipeline is built on a public benchmark first; the next
 step is extension to real-world clinical MRI data.
 
 **Status:** pipeline complete; full training and test-set evaluation in progress. Results will be
